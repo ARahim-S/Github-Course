@@ -13,9 +13,9 @@ For reaching git information about your can write to terminal git config --list
 If you create project at your own environment, you should use git init for adding your project to the local git environment.This should do once every project.
 
 
-Commands
+Commands <br />
 git add . <br />
-git add -m"version_1" <br />
+git commit -m"version_1" <br />
 git status <br />
 git log <br />
 git log --oneline <br />
