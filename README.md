@@ -14,41 +14,41 @@ If you create project at your own environment, you should use git init for addin
 
 
 Commands
-git add .
-git add -m"version_1"
-git status
-git log
-git log --oneline
-git show <hash 7 character>
-git restore . or git restore <file name>
-git restore --staged . or git restore --staged <file name>
-git reset --hard
-git checkout<hash code><file name>
-git checkout<hash code>. 
-git reset --hard <hash code>
+git add . <br />
+git add -m"version_1" <br />
+git status <br />
+git log <br />
+git log --oneline <br />
+git show <hash 7 character> <br />
+git restore . or git restore <file name> <br />
+git restore --staged . or git restore --staged <file name> <br />
+git reset --hard <br />
+git checkout<hash code><file name> <br />
+git checkout<hash code>. <br />
+git reset --hard <hash code> <br />
 
-git branch <branch name>
-git checkout <branch name>
-git branch -d <branch name>
-git branch -d .
-git merge <branch name> 
-git branch -m <branch new name>
-git stash
-git stash list
-git stash pop
+git branch <branch name> <br />
+git checkout <branch name> <br />
+git branch -d <branch name> <br />
+git branch -d . <br />
+git merge <branch name> <br />
+git branch -m <branch new name> <br />
+git stash <br /> 
+git stash list <br />
+git stash pop <br />
 
-GITHUB
-git clone
-git push
-git pull
-git remote -v (for checking)
-git remote add origin <github address>
+GITHUB <br />
+git clone <br />
+git push <br />
+git pull <br />
+git remote -v (for checking) <br />
+git remote add origin <github address> <br />
 
-FOR FIRST PUSH
-git push -u origin <Branch name> || git push --set-upstream origin <Branch name>
-after this action u will use always git push
-.gitignore (for security issues)
+FOR FIRST PUSH <br />
+git push -u origin <Branch name> || git push --set-upstream origin <Branch name> <br />
+after this action u will use always git push <br />
+.gitignore (for security issues) <br />
 
-Thats it. Good luck!
+Thats it. Good luck!<br />
 
 
